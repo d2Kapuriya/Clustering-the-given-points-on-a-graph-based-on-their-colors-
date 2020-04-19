@@ -1,0 +1,2 @@
+Here we take some points and apply randomly some colors on that point and
+then clustering these points based their colors using K-means clustering algorithm.
